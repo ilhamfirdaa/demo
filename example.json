@@ -1,0 +1,27 @@
+[
+	{
+		"id": 123,
+		"username": "User 1",
+		"message": "Cool product!"
+	},
+	{
+		"id": 432,
+		"username": "User 2",
+		"message": "Bajing koe!"
+	},
+	{
+		"id": 892,
+		"username": "User 3",
+		"message": "Ai si kehed!"
+	},
+	{
+		"id": 342,
+		"username": "User 4",
+		"message": "Bundo kanduang!"
+	},
+	{
+		"id": 478,
+		"username": "User 5",
+		"message": "Oetimu!"
+	},
+]
